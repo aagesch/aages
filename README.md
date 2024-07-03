@@ -1,2 +1,2 @@
-# aages
-# personlig nettsted
+
+personlig nettsted
